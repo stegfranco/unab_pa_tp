@@ -189,3 +189,8 @@ class Libro():
 libro1 = Libro("", "", "", 0, "", "", "", "")
 libro1.leer_informacion()
 print(libro1.mostrar_informacion())
+
+#PD: Me ayudo un autocompletar del VS que no supe desctivar despues de que puse fix en un problema que vimos en clase cuando le comparti pantalla, aun asi, creo haber
+#podido entender de manera correcta los principios de como se crea un objeto con la clase y se le dan o llaman datos con los metodos.
+
+
